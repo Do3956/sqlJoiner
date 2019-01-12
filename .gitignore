@@ -1,0 +1,11 @@
+.idea/*
+*.log
+*.out
+*.xml
+*.iml
+*.pyc
+.DS_Store
+env/*
+.pylintrc
+.coverage
+/tests/_trial_temp/*
